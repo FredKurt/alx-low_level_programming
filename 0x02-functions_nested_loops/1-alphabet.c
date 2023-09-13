@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 /**
  * Print_alphabet
  * Always return 0
